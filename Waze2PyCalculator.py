@@ -1,4 +1,3 @@
-# WordtoNumber Calculator v0.2
 import tkinter as TK 
 from tkinter import messagebox
 #The Main Gui  

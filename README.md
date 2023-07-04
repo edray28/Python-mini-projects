@@ -1,2 +1,2 @@
-# <h2> Simple Calc Py </h2>
-<p><code> Created in Python with Tkinter </p></code>
+# <h2> Python Mini Projects </h2>
+<p><code> Created in Python  Programming Languages </p></code>

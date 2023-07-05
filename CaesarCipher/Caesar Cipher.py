@@ -9,7 +9,7 @@ def encryption():
     if method == 1:
         caesar_shift = int(input('Enter shift for caesar encryption: '))
         return caesaren(password,caesar_shift)
-    elif method == 2:
+    elif method == 2: #Decryption
         alphabet = string.ascii_lowercase
         shift_key = int(input('Enter shift key: '))
         decrypted_message = ""
